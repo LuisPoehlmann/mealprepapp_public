@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mealprepapp/static/css/main.dc4d6ff2.css",
-    "main.js": "/mealprepapp/static/js/main.147bd417.js",
-    "index.html": "/mealprepapp/index.html",
-    "main.dc4d6ff2.css.map": "/mealprepapp/static/css/main.dc4d6ff2.css.map",
-    "main.147bd417.js.map": "/mealprepapp/static/js/main.147bd417.js.map"
+    "main.css": "/mealprepapp_public/static/css/main.dc4d6ff2.css",
+    "main.js": "/mealprepapp_public/static/js/main.147bd417.js",
+    "index.html": "/mealprepapp_public/index.html",
+    "main.dc4d6ff2.css.map": "/mealprepapp_public/static/css/main.dc4d6ff2.css.map",
+    "main.147bd417.js.map": "/mealprepapp_public/static/js/main.147bd417.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
